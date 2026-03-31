@@ -4,11 +4,13 @@ Production-style full-stack AI SEO platform built with FastAPI, React, Tailwind,
 
 This system audits websites, scores SEO health, generates optimization suggestions, rewrites content with AI, creates keyword clusters and blog drafts, supports bulk URL analysis, and exports PDF reports.
 
-![
+!
 
-](<Screenshot 1.png>) ![
+## Screenshots
 
-](<Screenshot 2.png>)
+![Dashboard](./screenshots/dashboard.png)
+
+![SEO Analysis](./screenshots/analysis.png)
 
 ## Live Product Scope
 
